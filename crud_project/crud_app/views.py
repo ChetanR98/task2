@@ -77,3 +77,4 @@ class OrderDetailsAPI(APIView):
         return Response(data={"message": "Record delete sccessfully"})
         
 
+print("hello")
